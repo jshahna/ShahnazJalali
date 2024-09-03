@@ -2,7 +2,7 @@
 
 ## [Project 2: Factors that Influence people's decision on whether to take the Vaccine or not](https://github.com/jshahna/H1N1-and-Seasonal-Flu-Vaccine/blob/main/Vaccince%20Data%20Analysis%20Report.pdf)
 
-## [Project 3: Dinosaur Fosil Record Insights](https://www.datacamp.com/datalab/w/2e20191b-033f-49d8-9b5e-03f6b4ff26c0#dinosaur-data-and-film-data-analysis-with-python-and-sql)
+## [Project 3: Dinosaur Fosil Record Insights](https://github.com/jshahna/Dinosaur-Fossil-Record-Insights/blob/main/Dinosaurs-fossil-insights.ipynb)
 
 ![Dinosaur](Dinosaur.png)
 
