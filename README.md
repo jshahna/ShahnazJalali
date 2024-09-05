@@ -9,6 +9,6 @@
 *Image source: [CNN](https://www.cnn.com/style/article/gorgosaurus-dinosaur-skeleton-auction-scn/index.html)*<br>
 This project, part of a DataCamp competition, involved analyzing Dinosaur Fossil Record Data from the [Paleobiology Database](https://paleobiodb.org/#/). I utilized Python for Exploratory Data Analysis and Visualization to explore dinosaur diversity, the prevalence of specific types, identify the largest-bodied species, and evaluate a theory on the evolutionary increase in dinosaur size.
 
-## [Project 4: Identify Patterns in Successful Old Hollywood Films](https://www.datacamp.com/datalab/w/2e20191b-033f-49d8-9b5e-03f6b4ff26c0/edit)
+## [Project 4: Identify Patterns in Successful Old Hollywood Films](https://github.com/jshahna/Successful-Hollywood-Movies/blob/main/Successful-Hollywood-Movies.ipynb)
 
 ## [Project 5: Analyzing Students Mental Health](https://www.datacamp.com/datalab/w/50aac941-ec39-4255-ae6e-0d4378eaa82e/edit)
