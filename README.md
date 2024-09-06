@@ -13,7 +13,7 @@ This project, part of a DataCamp competition, involved analyzing Dinosaur Fossil
 
 ![Movies](Movies.png)
 
-*Image source: [Facebook- Hollywwod Movies Fan Club](https://www.facebook.com/photo/?fbid=164221032917998&set=a.164221019584666)
+*Image source: [Facebook- Hollywwod Movies Fan Club](https://www.facebook.com/photo/?fbid=164221032917998&set=a.164221019584666) <br>
 In this project, I analyzed a dataset of Hollywood films sourced from [IMDb](https://www.imdb.com/) as part of a DataCamp competition. Using SQL for exploratory data analysis (EDA), I answered key stakeholder questions regarding the diversity of films in the dataset, including examining movies from specific countries and languages. 
 
 ## [Project 5: Analyzing Students Mental Health](https://www.datacamp.com/datalab/w/50aac941-ec39-4255-ae6e-0d4378eaa82e/edit)
