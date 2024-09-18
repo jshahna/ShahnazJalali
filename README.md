@@ -7,7 +7,7 @@
 ![Dinosaur](Dinosaur.png)
 
 *Image source: [CNN](https://www.cnn.com/style/article/gorgosaurus-dinosaur-skeleton-auction-scn/index.html)*<br>
-This project, part of a DataCamp competition, involved analyzing Dinosaur Fossil Record Data from the [Paleobiology Database](https://paleobiodb.org/#/). I utilized Python for Exploratory Data Analysis and Visualization to explore dinosaur diversity, the prevalence of specific types, identify the largest-bodied species, and evaluate a theory on the evolutionary increase in dinosaur size.
+This project involved analyzing Dinosaur Fossil Record Data from the [Paleobiology Database](https://paleobiodb.org/#/). I leveraged Python, utilizing libraries such as Pandas and NumPy, to perform Exploratory Data Analysis (EDA) on the provided dataset. I handled missing data, generated visualizations, and analyzed trends over time to extract meaningful insights. My analysis focused on exploring dinosaur diversity, identifying the prevalence of specific types, determining the largest-bodied species, and evaluating a hypothesis regarding the evolutionary increase in dinosaur size.
 
 ## [Project 4: Identify Patterns in Successful Old Hollywood Films](https://github.com/jshahna/Successful-Hollywood-Movies/blob/main/Successful-Hollywood-Movies.ipynb)
 
