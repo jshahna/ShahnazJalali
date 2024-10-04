@@ -1,4 +1,7 @@
 
+<p align="left">
+  <img src="Profile.png" width="100">
+</p>
 I am a certified Data Analyst and project manager with 6+ years of experience leading projects from initial concepts through to execution. My greatest strengths are deriving insights from data and communicating with people in a way that shows understanding of their perspectives, enabling me to explain complex concepts in simple terms. I have a talent for being highly detail-oriented while always keeping the big picture in mind, ensuring that even when we're deep into a project, I stay focused on the main objectives.
 
 I am passionate about empowering others and feel most energized when I'm learning, growing, and taking charge of solving problems. Above all, I value integrity, serving others, efficiency—and having fun while doing it.
