@@ -1,6 +1,6 @@
 # Welcome to My Data Analytics Portfolio
 
-<img src="Profile.png" width="160" align="left" style="margin-right: 20px; border-radius: 50%;"/>
+<img src="Profile.png" width="120" align="left" style="margin-right: 20px; border-radius: 50%; height: 120px; width: 120px; object-fit: cover;"/>
 
 I'm a **certified Data Analyst** and **Project Manager** with over **6 years of experience** leading end-to-end projects. My passion lies in transforming raw data into meaningful insights, communicating complex ideas in simple terms, and empowering teams to succeed. My approach combines strong attention to detail with a focus on big-picture objectives.
 
