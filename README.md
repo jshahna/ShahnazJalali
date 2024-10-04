@@ -9,4 +9,3 @@ This project involved analyzing Dinosaur Fossil Record Data from the [Paleobiolo
 
 ## [Project 1: Predict the Price of a House in King County](https://github.com/jshahna/King-County-House-Prices/blob/main/Group_Final_Project_CharryDeandres_KanizSyeda_ShahnazJalali.pdf)
 This project is the culmination of my Certificate program at the University of Washington, completed in collaboration with two fellow students. The primary objective was to develop machine learning algorithms and build predictive models to estimate house prices in King County. We focused on identifying the key features influencing house prices and selecting the best-fitting regression model for accurate predictions.
-![image](https://github.com/user-attachments/assets/daf4301a-b5f0-4129-ba32-3b492aa4a50c)
