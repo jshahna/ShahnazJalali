@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="Profile.png" width="120">
-</p>
+<img src="Profile.png" width="120" align="left" style="margin-right: 20px;"/>
+
 
 # Welcome to My Data Analytics Portfolio
 
