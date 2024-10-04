@@ -4,8 +4,6 @@
 
 ## [Project 3: Dinosaur Fosil Record Insights](https://github.com/jshahna/Dinosaur-Fossil-Record-Insights/blob/main/Dinosaurs-fossil-insights.ipynb)
 
-![Dinosaur](Dinosaur.png)
-
 <p align="center">
   <img src="Dinosaur.png" width="500">
 </p>
