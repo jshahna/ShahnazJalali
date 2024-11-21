@@ -2,7 +2,7 @@
 
 <img src="profile.png" width="170" align="left" style="margin-right: 20px;"/>
 
-I'm a **certified Data Analyst** and **Project Manager** with over **6 years of experience** leading end-to-end projects. My passion lies in transforming raw data into meaningful insights, communicating complex ideas in simple terms, and empowering teams to succeed. My approach combines strong attention to detail with a focus on big-picture objectives.
+I'm a **Mechanical Design Engineer** and **certified Data Analyst** with over **6 years of experience** leading end-to-end projects. My passion lies in transforming raw data into meaningful insights, communicating complex ideas in simple terms, and empowering teams to succeed. My approach combines strong attention to detail with a focus on big-picture objectives.
 
 I thrive on solving problems, learning new skills, and making an impact through data. With a commitment to integrity, efficiency, and collaboration, I love creating solutions that serve others—and having fun along the way!
 
