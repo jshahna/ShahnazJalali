@@ -11,6 +11,25 @@ I thrive on solving problems, learning new skills, and making an impact through 
 
 ## Featured Projects
 
+### [Insights Into Student Performance](https://public.tableau.com/app/profile/shahnaz3062/viz/Student-por/Dashboard1)
+
+<p align="center">
+  <img src="dataset-cover.jpg" width="500">
+</p>
+
+<p align="center"><em>Image source:</em> <a href="https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data">Kaggle</a></p>
+
+In this project, I analyzed various factors influencing student performance and outcomes, using the [Kaggle Student Alcohol Consumption dataset](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data). This dataset, derived from a survey of **secondary school** students enrolled in a **Portuguese language course**, provides valuable insights into social, gender, and study-related aspects of students' lives. 
+
+My dashboard presents a clear and interactive overview of the **data distribution** and highlights the **impact of key factors** such as gender, study time, internet access, parental education, parental marital status, and alcohol consumption on students' academic outcomes.
+
+**Key skills demonstrated:**
+- Data visualization with Tableau
+- Analyzing relationships between variables
+- Dashboard creation and storytelling
+
+---
+
 ### [Dinosaur Fossil Record Insights](https://github.com/jshahna/Dinosaur-Fossil-Record-Insights/blob/main/Dinosaurs-fossil-insights.ipynb)
 
 <p align="center">
