@@ -14,7 +14,7 @@ I thrive on solving problems, learning new skills, and making an impact through 
 ### [Insights Into Student Performance](https://public.tableau.com/app/profile/shahnaz3062/viz/Student-por/Dashboard1)
 
 <p align="center">
-  <img src="dataset-cover.jpg" width="500">
+  <img src="dataset-cover.jpg" width="700">
 </p>
 
 <p align="center"><em>Image source:</em> <a href="https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data">Kaggle</a></p>
