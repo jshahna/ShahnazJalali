@@ -14,7 +14,7 @@ I thrive on solving problems, learning new skills, and making an impact through 
 ### [Insights Into Student Performance](https://public.tableau.com/app/profile/shahnaz3062/viz/Student-por/Dashboard1)
 
 <p align="center">
-  <img src="dataset-cover.jpg" width="700">
+  <img src="dataset-cover.jpg" width="900">
 </p>
 
 <p align="center" style="margin-top: -10px;"> <em>Image source: <a href="https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data">Kaggle</a></p></em>
@@ -36,7 +36,7 @@ My dashboard presents a clear and interactive overview of the **data distributio
   <img src="Dinosaur.png" width="500">
 </p>
 
-<p align="center"><em>Image source:</em> <a href="https://www.cnn.com/style/article/gorgosaurus-dinosaur-skeleton-auction-scn/index.html">CNN</a></p>
+<p align="center"><em>Image source: <a href="https://www.cnn.com/style/article/gorgosaurus-dinosaur-skeleton-auction-scn/index.html">CNN</a></p></em>
 
 In this project, I explored **dinosaur diversity** and **evolution** using the [Paleobiology Database](https://paleobiodb.org/#/). By leveraging Python and libraries like **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib**, I performed an in-depth **Exploratory Data Analysis (EDA)**. My work uncovered key trends such as the distribution of dinosaur species over time and tested hypotheses on the evolutionary growth of dinosaurs.
 
@@ -53,7 +53,7 @@ In this project, I explored **dinosaur diversity** and **evolution** using the [
   <img src="King-County-House.png" width="500">
 </p>
 
-<p align="center"><em>Image source:</em> <a href="https://www.fau.edu/newsdesk/articles/left-most-digit-on-homes-asking-price-matters-most.php">Florida Atlantic University</a></p>
+<p align="center"><em>Image source: <a href="https://www.fau.edu/newsdesk/articles/left-most-digit-on-homes-asking-price-matters-most.php">Florida Atlantic University</a></p></em>
 
 This project was the **capstone** of my Certificate program at the **University of Washington**, where I collaborated with a team to develop machine learning algorithms and **predict house prices** in King County. Our focus was on identifying the most important features influencing house prices and building robust predictive models. 
 
