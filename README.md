@@ -17,7 +17,7 @@ I thrive on solving problems, learning new skills, and making an impact through 
   <img src="dataset-cover.jpg" width="700">
 </p>
 
-<p align="center"><em>Image source:</em> <a href="https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data">Kaggle</a></p>
+<p align="center" style="font-size: 14px"><em>Image source:</em> <a href="https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data">Kaggle</a></p>
 
 In this project, I analyzed various factors influencing student performance and outcomes, using the [Kaggle Student Alcohol Consumption dataset](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data). This dataset, derived from a survey of **secondary school** students enrolled in a **Portuguese language course**, provides valuable insights into social, gender, and study-related aspects of students' lives. 
 
