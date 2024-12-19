@@ -34,13 +34,13 @@ My dashboard presents a clear and interactive overview of the **data distributio
 <p align="center">
   <img src="Dinosaur.png" width="500">
 <br><small><em>Image source: <a href="https://www.cnn.com/style/article/gorgosaurus-dinosaur-skeleton-auction-scn/index.html"><small>CNN</a></p></em>
-
+<p
 In this project, I explored **dinosaur diversity** and **evolution** using the [Paleobiology Database](https://paleobiodb.org/#/). By leveraging Python and libraries like **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib**, I performed an in-depth **Exploratory Data Analysis (EDA)**. My work uncovered key trends such as the distribution of dinosaur species over time and tested hypotheses on the evolutionary growth of dinosaurs.
 
 **Key skills demonstrated:**
 - Data cleaning & handling missing data
 - Trend analysis & visualization
-- Evolutionary biology insights through data
+- Evolutionary biology insights through data</p>
 
 ---
 
@@ -49,13 +49,13 @@ In this project, I explored **dinosaur diversity** and **evolution** using the [
 <p align="center">
   <img src="King-County-House.png" width="500">
 <br><small><em>Image source: <a href="https://www.fau.edu/newsdesk/articles/left-most-digit-on-homes-asking-price-matters-most.php"><small>Florida Atlantic University</a></p></em>
-
+<p
 This project was the **capstone** of my Certificate program at the **University of Washington**, where I collaborated with a team to develop machine learning algorithms and **predict house prices** in King County. Our focus was on identifying the most important features influencing house prices and building robust predictive models. 
 
 **Key skills demonstrated:**
 - Feature engineering & selection
 - Building machine learning regression models
-- Collaborative project execution & presentation
+- Collaborative project execution & presentation</p>
 
 ---
 
