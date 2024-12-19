@@ -25,8 +25,8 @@ My dashboard presents a clear and interactive overview of the **data distributio
 **Key skills demonstrated:**
 - Data visualization with Tableau
 - Analyzing relationships between variables
-- Dashboard creation and storytelling
-</p>
+- Dashboard creation and storytelling</p>
+
 ---
 
 ### [Dinosaur Fossil Record Insights](https://github.com/jshahna/Dinosaur-Fossil-Record-Insights/blob/main/Dinosaurs-fossil-insights.ipynb)
